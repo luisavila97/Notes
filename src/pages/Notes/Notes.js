@@ -6,7 +6,7 @@ const Notes = ({ entries, handleRemove, showPost }) => {
       <h1>Notes</h1>
       {entries &&
         entries.map((note) => (
-          <div className={styles.note}>
+          <div key={note.id} className={styles.note}>
             <h2>{note.title}</h2>
             <button className="btn" onClick={() => showPost(note)}>
               👀
