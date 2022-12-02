@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "title": "First Post 😀",
+      "text": "This post server to teach how to use this note system.\n1 - Open your terminal and write \"npm install\";\n2 - Open the server running the command \"npm run server\";\n3 - Start the React.js app using the command \"npm start\" and write \"Y\" to open in other localhost.\nAcess \"http://localhost:3001\" and enjoy the tool",
+      "id": 1
+    },
+    {
+      "title": "Second Post",
+      "text": "A post just to show.",
+      "id": 2
+    }
+  ]
+}
